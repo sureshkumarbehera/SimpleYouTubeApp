@@ -1,1 +1,12 @@
-# SimpleYouTubeApp
+# SimpleYouTubeApp  IN REACTJS
+
+Requirements: npm, Youtube API
+
+How To Run?
+- npm install (to install all dependencies)
+- npm start (to run application)
+
+**NOTE**
+You need to set your own Youtube API Key in 'key.js' file which is inside src folder.
+
+#THANK YOU
